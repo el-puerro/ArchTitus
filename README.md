@@ -7,8 +7,7 @@ Download ArchISO from <https://archlinux.org/download/> and put on a USB drive w
 
 ## Current issues
 
- * sddm.service can't be started from the script
- * buch of other things that I'll probably add later
+ * chrome doesn't work. May try more times but honestly, maybe just install firefox instead
 
 ## Boot Arch ISO
 
