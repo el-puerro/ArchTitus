@@ -20,4 +20,3 @@ ttf-meslo
 vde2
 zoom
 spotify
-google-chrome
