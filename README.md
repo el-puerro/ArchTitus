@@ -7,7 +7,8 @@ Download ArchISO from <https://archlinux.org/download/> and put on a USB drive w
 
 ## Current issues
 
- * chrome doesn't work. May try more times but honestly, maybe just install firefox instead
+ * ~~chrome doesn't work. May try more times but honestly, maybe just install firefox instead~~
+ * using chromium instead, firefox will be installed as well, just in case
  * add custom theme
 
 ## Boot Arch ISO

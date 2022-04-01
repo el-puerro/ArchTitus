@@ -106,3 +106,5 @@ zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
 discord
+chromium
+firefox
